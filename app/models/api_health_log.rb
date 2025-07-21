@@ -1,0 +1,2 @@
+class ApiHealthLog < ApplicationRecord
+end
